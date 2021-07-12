@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/NerdySoft-testove/static/css/main.4bc7ea41.chunk.css",
-    "main.js": "/NerdySoft-testove/static/js/main.6bf90a5a.chunk.js",
-    "main.js.map": "/NerdySoft-testove/static/js/main.6bf90a5a.chunk.js.map",
+    "main.js": "/NerdySoft-testove/static/js/main.b9f2543b.chunk.js",
+    "main.js.map": "/NerdySoft-testove/static/js/main.b9f2543b.chunk.js.map",
     "runtime-main.js": "/NerdySoft-testove/static/js/runtime-main.ea64f40a.js",
     "runtime-main.js.map": "/NerdySoft-testove/static/js/runtime-main.ea64f40a.js.map",
-    "static/js/2.e44f0de0.chunk.js": "/NerdySoft-testove/static/js/2.e44f0de0.chunk.js",
-    "static/js/2.e44f0de0.chunk.js.map": "/NerdySoft-testove/static/js/2.e44f0de0.chunk.js.map",
+    "static/js/2.d71976c8.chunk.js": "/NerdySoft-testove/static/js/2.d71976c8.chunk.js",
+    "static/js/2.d71976c8.chunk.js.map": "/NerdySoft-testove/static/js/2.d71976c8.chunk.js.map",
     "index.html": "/NerdySoft-testove/index.html",
     "static/css/main.4bc7ea41.chunk.css.map": "/NerdySoft-testove/static/css/main.4bc7ea41.chunk.css.map",
-    "static/js/2.e44f0de0.chunk.js.LICENSE.txt": "/NerdySoft-testove/static/js/2.e44f0de0.chunk.js.LICENSE.txt"
+    "static/js/2.d71976c8.chunk.js.LICENSE.txt": "/NerdySoft-testove/static/js/2.d71976c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea64f40a.js",
-    "static/js/2.e44f0de0.chunk.js",
+    "static/js/2.d71976c8.chunk.js",
     "static/css/main.4bc7ea41.chunk.css",
-    "static/js/main.6bf90a5a.chunk.js"
+    "static/js/main.b9f2543b.chunk.js"
   ]
 }
