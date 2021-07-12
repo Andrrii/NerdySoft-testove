@@ -1,7 +1,7 @@
 import React from 'react'
 import List from './components/listOf-Items/List';
 import ItemDetails from './components/itemDetails'
-import {BrowserRouter as Router,Switch,Route,} from "react-router-dom";
+import {HashRouter as Router,Switch,Route,} from "react-router-dom";
 import NerdyService from './services/nerdyService'
 import './App.css';
 class App extends React.Component  {
